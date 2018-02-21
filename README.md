@@ -21,7 +21,7 @@ Like bank account funds, ether tokens appear in a wallet, and can be ported (so 
 
 
 
-## Install ethereumjs testrpc  
+## Ethereumjs testrpc  
 
 testrpc is a Node.js based Ethereum client for testing and development. It uses ethereumjs to simulate full client behavior and make developing Ethereum applications much faster. It also includes all popular RPC functions and features (like events) and can be run deterministically to make development a breeze.  
 
